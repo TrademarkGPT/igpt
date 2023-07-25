@@ -27,6 +27,7 @@ pip install streamlit flask openai
 ```
 
 ### Running the Streamlit App
+<img width="991" alt="image" src="https://github.com/TrademarkGPT/igpt/assets/79337007/279ebd4e-586e-4cf3-89c2-853b6f3654a3">
 
 In the terminal, navigate to the directory containing `InterviewGPT.py`. Run the following command to start the Streamlit app:
 
